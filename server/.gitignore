@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+!.env.example
+npm-debug.log*cd D:\RealTime-Chatbot\realtime-chatbot\server
+node server.js
